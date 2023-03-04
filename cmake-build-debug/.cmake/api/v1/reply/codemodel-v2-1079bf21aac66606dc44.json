@@ -1,0 +1,276 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "dataStructPractice",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice-Debug-c434442f26517a52349b.json",
+					"name" : "dataStructPractice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice10-Debug-477249178eba60fe0ee7.json",
+					"name" : "dataStructPractice10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice11-Debug-1af4207fe754d7ef8106.json",
+					"name" : "dataStructPractice11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice12-Debug-44a18e848c3a30a0b417.json",
+					"name" : "dataStructPractice12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice13-Debug-b2762df769bee73b5c40.json",
+					"name" : "dataStructPractice13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice14-Debug-fa6534ec0a91f45d7e4d.json",
+					"name" : "dataStructPractice14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice15-Debug-3dfb80786b29c760c3bb.json",
+					"name" : "dataStructPractice15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice16-Debug-e12b4c7a2ea9a5a92d3c.json",
+					"name" : "dataStructPractice16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice17-Debug-82636f618d1c7593ac5b.json",
+					"name" : "dataStructPractice17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice18-Debug-3757f6d1f0a231ecf018.json",
+					"name" : "dataStructPractice18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice19-Debug-eb81179715d6206e5713.json",
+					"name" : "dataStructPractice19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice2-Debug-3460e16c224e878b66c4.json",
+					"name" : "dataStructPractice2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice20-Debug-ee5bbc09727d73bb1c6f.json",
+					"name" : "dataStructPractice20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice21-Debug-3b50516236751d043e40.json",
+					"name" : "dataStructPractice21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice22-Debug-06110f1250b16ea28ca5.json",
+					"name" : "dataStructPractice22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice23-Debug-8082435ed547319c15c4.json",
+					"name" : "dataStructPractice23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice24-Debug-18b73c43bccf3a4888a8.json",
+					"name" : "dataStructPractice24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice25-Debug-34a22f1f8fb20353abee.json",
+					"name" : "dataStructPractice25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice3-Debug-1239d4ed29bb07d1c3a4.json",
+					"name" : "dataStructPractice3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice4-Debug-e5931e5b70cffcd1821e.json",
+					"name" : "dataStructPractice4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice5-Debug-1021af1949088777d99b.json",
+					"name" : "dataStructPractice5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice6-Debug-16990090d6d7d09d44e5.json",
+					"name" : "dataStructPractice6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice7-Debug-0ed511a84a90235c4d4b.json",
+					"name" : "dataStructPractice7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice8-Debug-8a3bc9face89904802a1.json",
+					"name" : "dataStructPractice8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dataStructPractice9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dataStructPractice9-Debug-3fdea4806ba27c155304.json",
+					"name" : "dataStructPractice9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "H:/dataStructPractice/cmake-build-debug",
+		"source" : "H:/dataStructPractice"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
